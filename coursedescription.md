@@ -22,8 +22,7 @@ Instructors:
 
 Exercises are held weekly and will include help getting started on the assignments and feedback on the same.
 
-### TAs
- 
+TAs: 
  * Anders Friis Persson
  * Morten Lundorff
  
