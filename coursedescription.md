@@ -9,24 +9,23 @@ A significant part of the course is build on material from CompSys. If you feel 
 
 ## Lectures
 
- * Mondays at 10-12 in Aud 02 HCØ, Universitetsparken 5
- * Fridays at 10-12 in AUD 01 AKB, Universitetsparken 13
+  * Mondays and Fridays at 10-12 in AUD 01 AKB, Universitetsparken 13
 
 Instructors:
-  * James Avery (course organiser)
+  * Boel Nelson (course organiser)
   * Troels Langkjær
   * Carsten Jørgensen
 
 ## Exercise Classes
 
- * Tuesdays 13-17 in Auditorium Syd, Nørre Alle 51 & Karnapsalen, Nørre Alle 53
+ * Tuesdays 13-17 in øv - bib 4-0-17, Universitetsparken 1-3, DIKU
 
 Exercises are held weekly and will include help getting started on the assignments and feedback on the same.
 
 ### TAs
- * Lucas Haahr Yri
+ 
  * Anders Friis Persson
- * Johan Sørensen Topp
+ * Morten Lundorff
  
 ## Teaching Material
 
@@ -37,9 +36,9 @@ PO available at Academic Books at Biocenteret (http://www.academicbooks.dk/) and
 
 ## Assignments
 
-There are 6 weekly assignments during the course. Assignments are posted on Mondays. See due dates in lecture plan. 
+There are 5 assignments during the course. Assignments are posted on Mondays. See due dates in lecture plan. 
 
-The assignments are pass/fail; expect to have at least 2/3 of an assignment correct to pass. It will be possible to re-handin one (and only one) assigment (1-4); deadline 20 Oct.
+The assignments are pass/fail; expect to have at least 2/3 of an assignment correct to pass. It will be possible to re-handin one (and only one) assigment (1-4).
 
 All assignments will be in groups up to 3 persons. That means that you can discuss related material and solutions with fellow students (outside the group), TAs and lectures (it is actually encouraged), but your group have to write up your own solution to the problems. You are under no circumstances allowed to share your written solutions with fellow students outside the group.
 
@@ -48,7 +47,7 @@ Short written feedback to assignments will be given by TAs on the course. It wil
 
 ## Exam qualification
 
-To qualify for the exam you are required to pass at least 5 of the 6 assignments.
+To qualify for the exam you are required to pass at least 4 of the 5 assignments.
 
 
 
