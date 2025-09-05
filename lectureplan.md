@@ -8,9 +8,9 @@ This course schedule will be updated as needed.
 |      | 02 Sep | 13-17            |         | Exercise class                                            | [Assignment 0](assignments/assignment0.md)
 |      | 05 Sep | 10-12            | TL      | Cryptographic building blocks                             | PO 2
 |      | 07 Sep |                  |         | No handin first week                                      | 
-| 37   | 08 Sep | 10-12            | TL      | User authentication, IAM                                  | PO 3, 5
+| 37   | 08 Sep | 10-12            | CJ      | User authentication, IAM                                  | PO 3, 5
 |      | 09 Sep | 13-17            |         | Exercise class                                            | [Assignment 1](assignments/assignment1.md)
-|      | 12 Sep | 10-12            | CJ      | Key establishment and certificate management              | PO 4.1-4.4, 8.1-8.5
+|      | 12 Sep | 10-12            | TL      | Key establishment and certificate management              | PO 4.1-4.4, 8.1-8.5
 |      | 14 Sep |                  |         | Assignment 1 handin                                       | 
 | 38   | 15 Sep | 10-12            | CJ      | Operating systems security, web, browser and mail security| PO 9, 8.6
 |      | 16 Sep | 13-17            |         | Exercise class                                            | [Assignment 2](assignments/assignment2.md)
@@ -37,5 +37,6 @@ This course schedule will be updated as needed.
 | 45   | 07 Nov |                  |         | Exam                                                      | All of the above
 
 PO: Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition by Paul C. van Oorschot. Springer, 2021.
+
 
 
