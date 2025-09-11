@@ -14,13 +14,13 @@ This course schedule will be updated as needed.
 |      | 14 Sep |                  |         | Assignment 1 handin                                       | 
 | 38   | 15 Sep | 10-12            | CJ      | Operating systems security, web, browser and mail security| PO 9, 8.6
 |      | 16 Sep | 13-17            |         | Exercise class                                            | [Assignment 2](assignments/assignment2.md)
-|      | 19 Sep | 10-12            | CJ      | IT security management and risk assessment 		         | [Risikostyring](https://sikkerdigital.dk/media/6835/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf), [Skabelon til beredskabspolitik] (https://sikkerdigital.dk/Media/637787961326953184/skabelon-til-it-beredskabspolitik-2022.docx) 
+|      | 19 Sep | 10-12            | CJ      | Security management, risk assessment and disaster recovery | [Risikostyring](https://sikkerdigital.dk/media/6835/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf), [Skabelon til beredskabspolitik] (https://sikkerdigital.dk/Media/637787961326953184/skabelon-til-it-beredskabspolitik-2022.docx) 
 |      | 21 Sep |                  |         | Assignment 2 handin                                       | 
 | 39   | 22 Sep | 10-12            | TL      | Malicious software                                        | PO 7
 |      | 23 Sep | 13-17            |         | Exercise class                                            | [Assignment 3](assignments/assignment3.md)
 |      | 26 Sep | 10-12            | TL      | Software security - exploits and privilege escalation     | PO 6
 |      | 28 Sep |                  |         | Assignment 3 handin                                       | 
-| 40   | 29 Sep | 10-12            | CJ      | Firewalls and tunnels, security architecture              | PO 10
+| 40   | 29 Sep | 10-12            | CJ      | Firewalls and tunnels, security architecture, OT          | PO 10
 |      | 30 Sep | 13-17            |         | Exercise class                                            | [Assignment 4](assignments/assignment4.md)
 |      | 03 Oct | 10-12            | CJ      | Cloud, AI and IoT security                                    | [Cloud Security Alliance pp.8-35] (https://cloudsecurityalliance.org/download/artifacts/security-guidance-v4)
 |      | 05 Oct |                  |         | Assignment 4 handin                                       | 
@@ -37,6 +37,7 @@ This course schedule will be updated as needed.
 | 45   | 07 Nov |                  |         | Exam                                                      | All of the above
 
 PO: Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition by Paul C. van Oorschot. Springer, 2021.
+
 
 
 
