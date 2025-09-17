@@ -16,9 +16,9 @@ This course schedule will be updated as needed.
 |      | 16 Sep | 13-17            |         | Exercise class                                            | [Assignment 2](assignments/assignment2.md)
 |      | 19 Sep | 10-12            | CJ      | Security management, risk assessment and disaster recovery | [Risikostyring](https://sikkerdigital.dk/media/6835/vejledning_til_risikostyring-_nden_for_informationssikkerhed_2020.pdf), [Skabelon til beredskabspolitik] (https://sikkerdigital.dk/Media/637787961326953184/skabelon-til-it-beredskabspolitik-2022.docx) 
 |      | 21 Sep |                  |         | Assignment 2 handin                                       | 
-| 39   | 22 Sep | 10-12            | TL      | Malicious software                                        | PO 7
+| 39   | 22 Sep | 10-12            | TL      | Software security - exploits and privilege escalation     | PO 6
 |      | 23 Sep | 13-17            |         | Exercise class                                            | [Assignment 3](assignments/assignment3.md)
-|      | 26 Sep | 10-12            | TL      | Software security - exploits and privilege escalation     | PO 6
+|      | 26 Sep | 10-12            | TL      | Malicious software                                        | PO 7
 |      | 28 Sep |                  |         | Assignment 3 handin                                       | 
 | 40   | 29 Sep | 10-12            | CJ      | Firewalls and tunnels, security architecture, OT          | PO 10
 |      | 30 Sep | 13-17            |         | Exercise class                                            | [Assignment 4](assignments/assignment4.md)
@@ -37,6 +37,7 @@ This course schedule will be updated as needed.
 | 45   | 07 Nov |                  |         | Exam                                                      | All of the above
 
 PO: Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition by Paul C. van Oorschot. Springer, 2021.
+
 
 
 
