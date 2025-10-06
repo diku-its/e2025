@@ -31,12 +31,13 @@ This course schedule will be updated as needed.
 | 42   |        |                  |         | Fall Vacation - No lectures                               |
 |      | 19 Oct |                  |         | Deadline: possible re-handin of one assignment (1-4)      |
 | 43   | 20 Oct | 10-12            | CJ      | Privacy and GDPR				                             | [I Didn't Buy it for Myself, Cranor](http://lorrie.cranor.org/pubs/personalization-privacy.pdf) og [Datatilsynet: Behandlingssikkerhed og databeskyttelse gennem design og standardindstillinger, del II](https://www.datatilsynet.dk/Media/637689328983143992/Behandlingssikkerhed%20og%20databeskyttelse%20gennem%20design%20og%20standardindstillinger_2018.pdf)
-|      | 21 Oct | 13-17            |         | No exercise class                                         | 
+|      | 21 Oct | 13-17            |         | Sanmple exam exercise class                               | 
 |      | 24 Oct | 10-12            | CJ      | Privacy engineering                                       | [ENISA Data Protection Engineering](https://www.enisa.europa.eu/sites/default/files/publications/ENISA%20Report%20-%20Data%20Protection%20Engineering.pdf)
 | 44   | 27 Oct | 10-12            | CJ,TL   | Final guest lecture and Exam Q/A                          | 
 | 45   | 07 Nov |                  |         | Exam                                                      | All of the above
 
 PO: Computer Security and the Internet: Tools and Jewels from Malware to Bitcoin, Second Edition by Paul C. van Oorschot. Springer, 2021.
+
 
 
 
